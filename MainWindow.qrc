@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Text">
+        <file>TransformMap.txt</file>
+    </qresource>
+    <qresource prefix="/Icon">
+        <file>lock.png</file>
+    </qresource>
+</RCC>
